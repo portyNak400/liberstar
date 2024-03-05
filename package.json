@@ -1,0 +1,27 @@
+{
+  "name": "liberstar",
+  "version": "1.0.0",
+  "description": "A simple module for checking various conditions",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/portyNak400/liberstar"
+  },
+  "keywords": [
+    "validation",
+    "conditions"
+  ],
+  "author": "portyNak400",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/portyNak400/liberstar/issues"
+  },
+  "homepage": "https://github.com/portyNak400/liberstar#readme",
+  "dependencies": {
+    "lonter": "^1.0.0"
+  },
+  "devDependencies": {}
+}
